@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS =
+CFLAGS = -g
 SOURCES = main.c helloWorld/hello.c variables/variables.c functions/functions.c
 TARGET = main
 
